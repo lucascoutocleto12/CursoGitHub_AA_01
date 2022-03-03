@@ -2,8 +2,23 @@ Perguntas
 
 01- O que é um repositório?
 
+Um repositório de software é um local de armazenamento de onde pacotes de software podem ser recuperados e instalados em um computador. 
+Um espaço que é usado para armazenar/guardar/arquivar coisas diferentes. Pode associar-se a ideia de repositório ao conceito de arquivo ou de depósito. 
+Num repositório, guarda-se algo, que pode ser material (físico) ou simbólico.
+
 02- Qual a diferença entre Git e GitHub?
+
+Git é um software VCS local que permite aos desenvolvedores salvar snapshots de seus projetos ao longo do tempo. 
+Geralmente é melhor para uso individual. GitHub é uma plataforma baseada na web que incorpora os recursos de controle de versões do gitHub para que possam ser usados colaborativamente.
 
 03- Porque utilizar controle de versão para os arquivos de desenvolvimento de software?
 
+O controle de versão também ajuda os desenvolvedores a se mover mais rápido e permite que as equipes de software preservem a eficiência e a a
+gilidade à medida que a equipe é escalonada para incluir mais desenvolvedores.
+O controle de versão é importante porque permite realizar um trabalho em equipe. 
+É que, com ele, todas as pessoas têm acesso aos arquivos, podendo observar as mudanças feitas por outros colaboradores.
+
 04- Quais vantagens você enxerga no Git? Você utilizaria em seu projeto?
+
+Fácil de usar, verifica o status de suas alterações, os usuários podem criar projetos com base em outros já existentes e editá-los à sua maneira.
+Sim, eu utilizaria em meu projeto, ele é muito eficiente e todos podem colaborar.
